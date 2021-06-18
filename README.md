@@ -1,4 +1,5 @@
-### A typical software developer... ✨ ✨ <img src="https://octodex.github.com/images/yaktocat.png" width="200" height="200">
+### A typical software developer... ✨ ✨ 
+<img src="https://octodex.github.com/images/yaktocat.png" width="200" height="200">
 
 <!--
 **sssimayy/sssimayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
